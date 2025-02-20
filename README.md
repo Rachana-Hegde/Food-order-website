@@ -26,12 +26,8 @@ A responsive food ordering website built using **HTML, CSS, and Bootstrap**. Thi
 2. **Navigate to the project folder:**  
    ```sh
    cd food-order-website
-   ```  
- 
-
-## 📄 License  
-
-This project is **free to use** and open-source under the **MIT License**.  
+   ```
+   
 
 ## 📬 Contact  
 
