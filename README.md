@@ -44,4 +44,4 @@ This project is **free to use** and open-source under the **MIT License**.
 ## 📬 Contact  
 
 For any inquiries or feedback, feel free to reach out:    
-🔗 **GitHub**: [your-username](https://github.com/Rachana-Hegde)
+🔗 **GitHub**: Rachana-Hegde(https://github.com/Rachana-Hegde)
