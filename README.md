@@ -28,7 +28,6 @@ A responsive food ordering website built using **HTML, CSS, and Bootstrap**. Thi
    cd food-order-website
    ```
    
-
 ## 📬 Contact  
 
 For any inquiries or feedback, feel free to reach out:    
