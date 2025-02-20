@@ -15,10 +15,7 @@ A responsive food ordering website built using **HTML, CSS, and Bootstrap**. Thi
 - **HTML5** - Structuring the web pages.  
 - **CSS3** - Styling and layout enhancements.  
 - **Bootstrap** - Responsive grid system and pre-designed UI components.  
-
-## 📸 Screenshots  
-
-_(Add images of your website here to showcase its appearance.)_  
+ 
 
 ## 🔧 Installation & Usage  
 
@@ -46,6 +43,5 @@ This project is **free to use** and open-source under the **MIT License**.
 
 ## 📬 Contact  
 
-For any inquiries or feedback, feel free to reach out:  
-📧 **Your Email**: [your-email@example.com](mailto:your-email@example.com)  
-🔗 **GitHub**: [your-username](https://github.com/your-username)
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [your-username](https://github.com/Rachana-Hegde)
